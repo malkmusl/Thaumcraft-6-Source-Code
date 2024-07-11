@@ -22,7 +22,7 @@ Please note that **an official successor to Thaumcraft will be coming soon from 
 ## License
 
 **<p>The original Thaumcraft 6 code belongs to Azanor!</p>**
-This legacy branch is maintained to preserve the original work. The new version of the Thaumcraft project (Taumcraft:Re) is licensed under Malkmusl's Open Source License. The source code and associated files for the new version are open and available for use, modification, and distribution. See the [LICENSE.md](LICENSE.md) file for more details.
+The legacy branch is maintained to preserve the original work. The new version of the Thaumcraft project (Taumcraft:Re) is licensed under Malkmusl's Open Source License. The source code and associated files for the new version are open and available for use, modification, and distribution. See the [LICENSE.md](LICENSE.md) file for more details.
 
 ## To-Do
 
