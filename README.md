@@ -2,7 +2,10 @@
 
 [![Malkmusl's Open Source License Agreement v1.3](https://img.shields.io/badge/License-Malkmusl's%20Open%20Source%20License%20Agreement%20v1.3-brightgreen.svg?style=for-the-badge)](LICENSE.md)
 
+![Languages Badge](https://img.shields.io/badge/Languages-818080?style=for-the-badge) ![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Forge Badge](https://img.shields.io/badge/Forge-FFAB09?style=for-the-badge&logo=forge&logoColor=white) 
+
 [![Buy me a coffee on Ko-fi](https://img.shields.io/badge/Buy%20me%20a%20coffee-Ko--fi-%23FF5E5B.svg?style=for-the-badge)](https://ko-fi.com/malkmusl)  [![Support me on Patreon](https://img.shields.io/badge/Support%20me%20on-Patreon-orange.svg?style=for-the-badge)](https://www.patreon.com/malkmusl)
+
 
 ## Overview
 
@@ -18,8 +21,8 @@ Please note that **an official successor to Thaumcraft will be coming soon from 
 
 ## License
 
-**The original Thaumcraft 6 code belongs to Azanor!**
-This legacy branch is maintained to preserve the original work. The new version of the Thaumcraft project is licensed under Malkmusl's Open Source License. The source code and associated files for the new version are open and available for use, modification, and distribution. See the [LICENSE.md](LICENSE.md) file for more details.
+**<p>The original Thaumcraft 6 code belongs to Azanor!</p>**
+This legacy branch is maintained to preserve the original work. The new version of the Thaumcraft project (Taumcraft:Re) is licensed under Malkmusl's Open Source License. The source code and associated files for the new version are open and available for use, modification, and distribution. See the [LICENSE.md](LICENSE.md) file for more details.
 
 ## To-Do
 
