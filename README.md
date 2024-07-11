@@ -1,15 +1,15 @@
-# Thaumcraft:Re (Legacy - 1.12.2)
+# Thaumcraft:Re (1.21)
 
 [![Malkmusl's Open Source License Agreement v1.3](https://img.shields.io/badge/License-Malkmusl's%20Open%20Source%20License%20Agreement%20v1.3-brightgreen.svg?style=for-the-badge)](LICENSE.md)
 
-![Languages Badge](https://img.shields.io/badge/Languages-818080?style=for-the-badge) ![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Forge Badge](https://img.shields.io/badge/Forge-FFAB09?style=for-the-badge&logo=forge&logoColor=white) 
+![Languages Badge](https://img.shields.io/badge/Languages-818080?style=for-the-badge) ![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Forge Badge](https://img.shields.io/badge/Forge-FFAB09?style=for-the-badge&logo=forge&logoColor=white) ![Fabric Badge](https://img.shields.io/badge/Fabric-307D7E?style=for-the-badge&logo=markdown&logoColor=white)
 
 [![Buy me a coffee on Ko-fi](https://img.shields.io/badge/Buy%20me%20a%20coffee-Ko--fi-%23FF5E5B.svg?style=for-the-badge)](https://ko-fi.com/malkmusl)  [![Support me on Patreon](https://img.shields.io/badge/Support%20me%20on-Patreon-orange.svg?style=for-the-badge)](https://www.patreon.com/malkmusl)
 
 
 ## Overview
 
-This branch contains the original code for Thaumcraft 6, designed for Minecraft version 1.12.2. This codebase will serve as a reference for my unofficial rewrite of the mod, which will support both Forge/NeoForge and Fabric/Quilt loader frameworks. By leveraging Architectury, an API for developing multi-loader mods, I aim to simplify multi-loader support and streamline the mod development process while retaining all original functionalities.
+This branch contains the rewritten code for Thaumcraft:Re based on the lagacy branch, designed for any newer Minecraft version. This codebase will serve as my unofficial rewrite of the mod, which will support both Forge/NeoForge and Fabric/Quilt loader frameworks. By leveraging Architectury, an API for developing multi-loader mods, I aim to simplify multi-loader support and streamline the mod development process while retaining all original functionalities.
 
 Special thanks to **Azanor**, the original developer of Thaumcraft, for creating such an incredible mod.
 
